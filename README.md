@@ -1,5 +1,9 @@
 # Music-bot
 
+
+
+## Original README.md
+
 A complete code to download for a music bot 🎧
 
 Looking for a code for a music bot ? This fully open source code is made for your project !
@@ -17,7 +21,7 @@ module.exports = {
     app: {
         px: 'XXX',
         token: 'XXX',
-        playing: 'by Zerio ❤️'
+        playing: 'by Phaze ❤️'
     },
 
     opt: {
@@ -61,7 +65,7 @@ To use the project correctly you will need some tools.
 
 Without forgetting of course the code editor ^^
 
-Realized with ❤️ by [ZerioDev](https://github.com/ZerioDev).
+Realized with ❤️ by [PhazeDev](https://github.com/PhazeDev).
 
 Please do not withdraw the license and keep the credits on this project.
 

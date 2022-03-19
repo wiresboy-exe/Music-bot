@@ -9,10 +9,15 @@
     "start": "node main.js"
   },
   "dependencies": {
+    "cookie-parser": "^1.4.6",
     "discord-player": "^5.1.0",
     "discord.js": "^13.1.0",
+    "ejs": "^3.1.6",
+    "express": "^4.17.3",
     "ffmpeg-static": "^4.4.0",
     "ms": "^3.0.0-canary.1",
-    "opusscript": "^0.0.8"
+    "node-fetch": "^2.6.7",
+    "opusscript": "^0.0.8",
+    "uuid": "^8.3.2"
   }
 }

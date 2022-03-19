@@ -1,0 +1,21 @@
+<html>
+    <head>
+        <style>
+
+        </style>
+    </head>
+    <body>
+
+        <script>
+            let ws = new WebSocket('ws://localhost:8080');
+
+            ws.onopen = () => {
+                console.log('Socket Opened');
+            }
+
+            ws.onmessage = ( msg ) => {
+                console.log('Message: '+msg.data)
+            }
+        </script>
+    </body>
+</html>

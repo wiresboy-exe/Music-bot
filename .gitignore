@@ -1,2 +1,5 @@
 # Node
 node_modules/
+
+# (As i will 100% forget i have a token in here)
+config.js
